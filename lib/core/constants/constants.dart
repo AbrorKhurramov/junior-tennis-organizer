@@ -1,0 +1,44 @@
+class Constants {
+  Constants._();
+
+  static const appName = 'junior_tennis_organizer';
+  static const androidApp = 'junior_tennis_organizer_android';
+  static const iosApp = 'junior_tennis_organizer_ios';
+  static const androidPackageName = 'alpha.soft.junior_tennis_organizer';
+  static const iosAppId = '';
+  static const baseUrl = "https://as/api";
+  static const baseFileUrl = "http://as/";
+  static const notificationIcon = "@mipmap/ic_launcher";
+  static const locale = "locale";
+  static const location = "location";
+  static const lat = "lat";
+  static const lng = "lng";
+  static const localePath = "assets/locale";
+  static const hasUser = "has_user";
+  static const credentialsBox = "credentials_box";
+  static const id = 'id';
+  static const screen = 'screen';
+  static const title = 'title';
+  static const body = 'body';
+  static const page = 'page';
+  static const news = 'news';
+  static const notificationSound = 'notificationSound';
+  static const dateFormat = 'dd-MM-yyyy';
+  static const phoneMask = '## ### ## ##';
+  static const phonePrefix = '+998 ';
+  static const phoneSeparator = ' ';
+  static const html = 'html';
+  static const space = ' ';
+  static const plus = '+';
+  static const uz = 'uz';
+  static const ru = 'ru';
+  static const en = 'en';
+  static const defaultVersion = "1.0.0";
+  static const dioTimeOut = 30000;
+  static const empty = '';
+  static const dialogOpacity = .5;
+  static const textScaleFactor = 1.0;
+  static const introCount = 3;
+  static const smsCodeLength = 6;
+  static const expansionFactor = 2.0;
+}
